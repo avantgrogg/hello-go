@@ -1,1 +1,1 @@
-First attempt at a Hello World go app. Good times.
+A bunch of first go apps.
